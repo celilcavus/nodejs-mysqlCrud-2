@@ -1,4 +1,4 @@
-#yüklenmedi gereken paketler
+# yüklenmedi gereken paketler
 
 ## 1
 ### mysql == npm i mysql2
